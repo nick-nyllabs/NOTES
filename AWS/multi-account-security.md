@@ -69,3 +69,4 @@ For each account
 
 ### Further things to look at ###
 + [AWS Tagging Strategies](https://aws.amazon.com/answers/account-management/aws-tagging-strategies/)
++ [Enabling Federation to AWS](https://aws.amazon.com/blogs/security/enabling-federation-to-aws-using-windows-active-directory-adfs-and-saml-2-0/)
