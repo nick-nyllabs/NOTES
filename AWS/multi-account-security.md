@@ -66,3 +66,6 @@ For each account
 
 ### ❓ For Ilya ###
 + Best way to lock away root creds?
+
+### Further things to look at ###
++ [AWS Tagging Strategies](https://aws.amazon.com/answers/account-management/aws-tagging-strategies/)
